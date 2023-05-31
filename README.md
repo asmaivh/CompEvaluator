@@ -1,6 +1,6 @@
 ## Compevaluator
 
-# Description:
+## Description:
 
 CompEvaluator is an open source software that computes 12 performance assessment measures to evaluate a protein complex prediction method against a benchmark protein complexes.
 
@@ -16,7 +16,7 @@ INTERFACES   :     GUI
 DEPENDENCIES :     JDK 8.0
 
 
-# Input & Output Files
+## Input & Output Files
       
 Input:
          This program accepts a text file as input data with the following format:
@@ -28,7 +28,7 @@ Output:
 
 
 
-# How to execute CompEvaluator 
+## How to execute CompEvaluator 
 
 You should do the following steps:
 
